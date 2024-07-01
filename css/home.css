@@ -6,12 +6,16 @@
   padding-top: 100px;
 }
 .course__title,
-.campus__title {
+.campus__title,
+.facilities__title,
+.testimonials__title {
   font-size: 36px;
   font-weight: 600;
 }
 .course__text,
-.campus__text {
+.campus__text,
+.facilities__text,
+.testimonials__text {
   font-size: 14px;
   font-weight: 300;
   line-height: 22px;
@@ -152,7 +156,7 @@
     text-align: center;
     padding: 100px 0;
 }
-.cta h1 {
+.cta__title {
     color: #fff;
     margin: 0 0 40px 0;
     padding: 0;
